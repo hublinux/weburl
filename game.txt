@@ -78,3 +78,4 @@ xiaoyouxi.360.cn
 xy2.163.com
 xyx.hao123.com
 youxi.baidu.com
+*.emsoso.cn
